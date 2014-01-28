@@ -1,4 +1,4 @@
 geoecode_google_api
 ===================
 
-Geocode Using Google's API
+Geocode a list of addresses using Google's Geocode API.  Includes request throttling.
